@@ -2,7 +2,11 @@
 - 👀 Gosto de jogar video-game, rpg e ler sobre coisas aleatórias nas horas vagas
 - 🌱 Formada em Comunicação Social e especializada em Product Management, atualmente em transição de carreira onde meu foco está em análise de dados de software
 - 💞️ Gosto de me envolver em projetos ESG, e sou apaixonada pelo universo Geek criei um perfil de easter eggs por lá @umahipergeek
-- 📫 alecardosocreate@gmail.com 
+- 📫 alecardosocreate@gmail.com
+  
+Connect with me:
+(https://www.kaggle.com/eualecardoso)
+
 
 <!---
 Alecardosocreate/Alecardosocreate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,6 +6,7 @@
   
 Connect with me:
 https://www.kaggle.com/eualecardoso 
+https://medium.com/@alecardosocreate
 
 
 <!---

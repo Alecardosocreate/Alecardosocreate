@@ -5,7 +5,7 @@
 - 📫 alecardosocreate@gmail.com
   
 Connect with me:
-https://www.kaggle.com/eualecardoso https://www.kaggle.com/eualecardoso
+https://www.kaggle.com/eualecardoso 
 
 
 <!---
